@@ -2,7 +2,7 @@
 - 👀 I’m interested in genomics
 - 🌱 I’m currently studying MSc Bioinformatics
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I work in scientific recruitment but want to be a data scientist
+- ⚡ Fun fact: I am a part time florist with an interest in plant biology
 
 <!---
 SophieWigfall/SophieWigfall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
